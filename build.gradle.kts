@@ -35,7 +35,6 @@ repositories {
   maven("https://maven.blamejared.com/")  // JEI
   maven("https://squiddev.cc/maven/")  // CC: Tweaked
   maven("https://maven.createmod.net")  // Ponder (Catnip)
-  maven("https://raw.githubusercontent.com/Fuzss/modresources/main/maven/")  // Forge Config Api Port
 }
 
 val shadowDep: Configuration by configurations.creating
